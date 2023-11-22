@@ -10,27 +10,31 @@ format:
 
 \
 
++:------------+:-----------------+
+| 8:30        | ### Registration |
++-------------+------------------+
+
 ## Session 1
 
 **Chair:** Elijah Ablorsu & Laszlo Szabo
 
-+:------------+:-------------------------------------------------------------------+
-| 9:15        | ### Welcome                                                        |
-|             |                                                                    |
-|             | Usman Khalid, Cardiff                                              |
-+-------------+--------------------------------------------------------------------+
-| 9:30        | ### Where are we in Wales re: Organ Donation and Transplantation?  |
-|             |                                                                    |
-|             | Michael Stephens, Cardiff                                          |
-+-------------+--------------------------------------------------------------------+
-| 9:45        | ### Organ Recovery                                                 |
-|             |                                                                    |
-|             | Michael Nicholson, Cambridge                                       |
-+-------------+--------------------------------------------------------------------+
-| 10:15       | ### From Haphazard to a Sustainable Normothermic Perfusion Service |
-|             |                                                                    |
-|             | Fiona Hunt, Edinburgh                                              |
-+-------------+--------------------------------------------------------------------+
++:-------------+:-------------------------------------------------------------------+
+| 9:15         | ### Welcome                                                        |
+|              |                                                                    |
+|              | Usman Khalid, Cardiff                                              |
++--------------+--------------------------------------------------------------------+
+| 9:30         | ### Where are We in Wales re: Organ Donation and Transplantation?  |
+|              |                                                                    |
+|              | Michael Stephens, Cardiff                                          |
++--------------+--------------------------------------------------------------------+
+| 9:45         | ### Organ Recovery                                                 |
+|              |                                                                    |
+|              | Michael Nicholson, Cambridge                                       |
++--------------+--------------------------------------------------------------------+
+| 10:15        | ### From Haphazard to a Sustainable Normothermic Perfusion Service |
+|              |                                                                    |
+|              | Fiona Hunt, Edinburgh                                              |
++--------------+--------------------------------------------------------------------+
 
 |       |                |
 |-------|----------------|
@@ -42,23 +46,23 @@ format:
 
 **Chair:** Michael Stephens & Sian Griffin
 
-+------------+----------------------------------------------------------------------------+
-| 11:20      | ### Impact of Social Media in Transplantation                              |
-|            |                                                                            |
-|            | Lisa Burnapp, NHSBT                                                        |
-+------------+----------------------------------------------------------------------------+
-| 11:45      | ### Global Surgery in Transplantation: Setting up a Transplant Unit abroad |
-|            |                                                                            |
-|            | Nizam Mamode, London                                                       |
-+------------+----------------------------------------------------------------------------+
-| 12:10      | ### Xenotransplantation                                                    |
-|            |                                                                            |
-|            | Emanuele Cozzi, Padua, Italy                                               |
-+------------+----------------------------------------------------------------------------+
-| 12:35      | ### Ethical Implications of Future Innovations in Transplantation          |
-|            |                                                                            |
-|            | Hannah Maple, Guy's Hospital, London                                       |
-+------------+----------------------------------------------------------------------------+
++-------------+----------------------------------------------------------------------------+
+| 11:20       | ### Impact of Social Media in Transplantation                              |
+|             |                                                                            |
+|             | Lisa Burnapp, NHSBT                                                        |
++-------------+----------------------------------------------------------------------------+
+| 11:45       | ### Global Surgery in Transplantation: Setting up a Transplant Unit Abroad |
+|             |                                                                            |
+|             | Nizam Mamode, London                                                       |
++-------------+----------------------------------------------------------------------------+
+| 12:10       | ### Xenotransplantation                                                    |
+|             |                                                                            |
+|             | Emanuele Cozzi, Padua, Italy                                               |
++-------------+----------------------------------------------------------------------------+
+| 12:35       | ### Ethical Implications of Future Innovations in Transplantation          |
+|             |                                                                            |
+|             | Hannah Maple, Guy's Hospital, London                                       |
++-------------+----------------------------------------------------------------------------+
 
 |       |         |
 |-------|---------|
@@ -73,48 +77,48 @@ format:
 
 **Chair:** Usman Khalid & Doruk Elker
 
-+-------------+---------------------------------------------------------------+
-| 14:00       | ### Robotic Donor Nephrectomy                                 |
-|             |                                                               |
-|             | Ioannis Loukopoulos, Guy's Hospital, London                   |
-+-------------+---------------------------------------------------------------+
-| 14:30       | ### Robotic Transplantation                                   |
-|             |                                                               |
-|             | Ivo Tzvetanov, Chicago, US                                    |
-+-------------+---------------------------------------------------------------+
-| 15:00       | ### Training to Become a Robotic Transplant Surgeon in the UK |
-|             |                                                               |
-|             | Makis Laftsidis, Royal Free, London                           |
-+-------------+---------------------------------------------------------------+
-| 15:30       | ### Round Table Discussion                                    |
-+-------------+---------------------------------------------------------------+
++--------------+---------------------------------------------------------------+
+| 14:00        | ### Robotic Donor Nephrectomy                                 |
+|              |                                                               |
+|              | Ioannis Loukopoulos, Guy's Hospital, London                   |
++--------------+---------------------------------------------------------------+
+| 14:30        | ### Robotic Transplantation                                   |
+|              |                                                               |
+|              | Ivo Tzvetanov, Chicago, US                                    |
++--------------+---------------------------------------------------------------+
+| 15:00        | ### Training to Become a Robotic Transplant Surgeon in the UK |
+|              |                                                               |
+|              | Makis Laftsidis, Royal Free, London                           |
++--------------+---------------------------------------------------------------+
+| 15:30        | ### Roundtable Discussion                                     |
++--------------+---------------------------------------------------------------+
 
 ## Session 3B
 
 **Chair:** Sharon Warlow & Lucy Barnes
 
-+-----------+---------------------------------------------------------------------------------------+
-| 14:00     | ### Implications of NRP for SNODs and the Organ Donation Process                      |
-|           |                                                                                       |
-|           | Al Croose, Cardiff                                                                    |
-+-----------+---------------------------------------------------------------------------------------+
-| 14:30     | ### Physical and Emotional Well-being -- The Kidney Beam Trial                        |
-|           |                                                                                       |
-|           | Sharlene Greenwood, King's College, London                                            |
-+-----------+---------------------------------------------------------------------------------------+
-| 15:00     | ### What is the best way to deliver follow up for Tx patients?                        |
-|           |                                                                                       |
-|           | Alison Smith, Oxford                                                                  |
-+-----------+---------------------------------------------------------------------------------------+
-| 15:30     | ### Debate: This house believes that transplant recipients should not become pregnant |
-|           |                                                                                       |
-|           | FOR -- Siân Griffin, Cardiff\                                                         |
-|           | AGAINST -- Helen Thomas, Cardiff                                                      |
-+-----------+---------------------------------------------------------------------------------------+
++------------+---------------------------------------------------------------------------------------+
+| 14:00      | ### Implications of NRP for SNODs and the Organ Donation Process                      |
+|            |                                                                                       |
+|            | Al Croose, Cardiff                                                                    |
++------------+---------------------------------------------------------------------------------------+
+| 14:30      | ### Physical and Emotional Well-being -- The Kidney Beam Trial                        |
+|            |                                                                                       |
+|            | Sharlene Greenwood, King's College, London                                            |
++------------+---------------------------------------------------------------------------------------+
+| 15:00      | ### Telemedicine in Transplantation                                                   |
+|            |                                                                                       |
+|            | Alison Smith, Oxford                                                                  |
++------------+---------------------------------------------------------------------------------------+
+| 15:30      | ### Debate: This house believes that transplant recipients should not become pregnant |
+|            |                                                                                       |
+|            | FOR -- Siân Griffin, Cardiff\                                                         |
+|            | AGAINST -- Helen Thomas, Cardiff                                                      |
++------------+---------------------------------------------------------------------------------------+
 :::
 
-+-------------+------------------------+
-| 16:30       | ### Closing remarks    |
-|             |                        |
-|             | Rafael Chavez, Cardiff |
-+-------------+------------------------+
++---------------+------------------------+
+| 16:30         | ### Closing remarks    |
+|               |                        |
+|               | Rafael Chavez, Cardiff |
++---------------+------------------------+

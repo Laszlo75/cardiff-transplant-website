@@ -1,13 +1,11 @@
 ---
-title: "Speakers"
+title: Speakers
 listing: 
   contents: speakers
+  type: grid
   filter-ui: [title]
-  fields: [title, subtitle, image]
-  image-height: 150px
+  fields: [image, title]
+  image-height: 300px
+  
 toc: true
 ---
-
-::: callout-warning
-The speaker list has not been finalized, might change!
-:::

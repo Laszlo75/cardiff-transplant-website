@@ -1,0 +1,24 @@
+---
+title: "Al Croose"
+subtitle: "Clinical Lead for the Cardiff NORS Team, Cardiff"
+image: ALCroose_photo.jpeg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Al_croose12
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: 
+# category: 
+#   -Session1
+---
+
+Al, a skilled Operating Department Practitioner (ODP), graduating from Cardiff University and has dedicated the past 16 years of his career to the University Hospital of Wales in Cardiff.
+
+He began his journey in the Main Theatre Department as a Scrub Practitioner, specialising in Hepatobilary, Upper-GI, and Renal/Transplant surgeries. It was during this time that Al discovered his passion for the organ donation and transplant process.
+
+In 2016, Al was involved in the establishment and early development of Cardiff's dedicated National Organ Retrieval Service (NORS) team. Being one of the team's initial members, he contributed significantly to its growth. Al has many years of experience in multi-organ retrieval, in both the Scrub and Organ Preservation aspects. Al has also actively participated in the development and implementation of the Normothermic Regional Perfusion (NRP) program in Cardiff, having undergone extensive training in this field.
+
+Al was recently appointed as the Clinical Lead for the Cardiff NORS team. He enthusiastically engages in on-call responsibilities, serving both the NORS and NRP services. Al's deep passion for the NORS service is evident in his dedication to its ongoing development and long-term sustainability.

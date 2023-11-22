@@ -1,4 +1,0 @@
----
-title: "Peter Friend"
-description: "Transplant Surgeon, Oxford"
----

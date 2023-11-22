@@ -1,0 +1,28 @@
+---
+title: "Ali Smith"
+subtitle: "Advanced Transplant Nurse Practitioner, Oxford"
+image: a_smith.jpeg
+about:
+  template: solana
+  
+  links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com/LoukopoulosI
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ali-smith-14200868/
+    - icon: envelope
+      text: E-mail
+      href: mailto:alison.smith@ouh.nhs.uk
+---
+
+Ali Smith has been working as a transplant nurse practitioner for 23 years at the Oxford Transplant Centre. During her time, she has observed many surgical and medical advancements in treatment, innovations and research, development of the intestinal and pancreas transplant programmes and most recently the uterine transplant programme. As a result of her experience with the intestinal programme and vascularised allograft abdominal wall transplantation, she was approached by Leeds Unit to assist with the follow up and management of a hand transplant recipient and is honoured to be invited into their programme.
+
+Ali is the team leader for the post-transplant nursing team and has developed the service over the years as the transplant programme expands. Daily role encompasses providing telephone triage for patients and primary care practitioners, clinical consultations, recipient on-call service and assisting on the ward during periods of industrial action by junior doctors. They provide a continual presence within the outpatient department, supporting both Doctors new to the departments and providing continuity for the patients. During the COVID pandemic, she established a COVID welfare call system for the patients who tested positive and virtual psychological support for patients during isolation.
+
+Transplantation is her vocation and she feels privileged to join patients on their transplant journey. She is an active member of the Chapter of Nurses Committee within the British Transplantation Society and presented on NHSBT study days.
+
+She is currently completing her MSc in Advanced Nursing Practice with her dissertation focus on psychological support for failing transplant patients as they return to dialysis as current literature is sparse.
+
+She enjoys both performing and watching musical theatre in her spare time. She is always happy to share her experience with colleagues so please [email](mailto:alison.smith@ouh.nhs.uk) her if you would like any assistance or support.

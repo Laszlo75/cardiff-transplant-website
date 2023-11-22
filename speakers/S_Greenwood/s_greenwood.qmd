@@ -1,7 +1,7 @@
 ---
 title: "Sharlene Greenwood"
 subtitle: "Consultant Physiotherapist, King's College, London"
-image: https://media.licdn.com/dms/image/C5603AQFTaV9KVwPgCQ/profile-displayphoto-shrink_800_800/0/1561383630374?e=1692230400&v=beta&t=bNyxryQxUcgFtDjQy-qg_EFuebXN32-g6hc_zNkqHgo
+image: s_greenwood.jpeg
 about:
   template: solana
   # §image: https://media.licdn.com/dms/image/C5603AQFTaV9KVwPgCQ/profile-displayphoto-shrink_800_800/0/1561383630374?e=1692230400&v=beta&t=bNyxryQxUcgFtDjQy-qg_EFuebXN32-g6hc_zNkqHgo

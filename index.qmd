@@ -1,23 +1,64 @@
 ---
-title: "Welcome to the 8^th^ Cardiff Transplant Symposium!"
+title-meta: "8^th^ Cardiff Transplant Symposium"
+subtitle-meta: Looking to the Future of Organ Donation and Transplantation
+description-meta: Get ready for a day full of inspiring talks, informative discussions, and networking opportunities with transplant professionals.
+image: "images/banner2.png"
 ---
 
-
-# Looking to the future of Organ Donation and Transplantation
-
+![](images/banner2.png)
 
 ::: callout
 **Get ready for a day full of inspiring talks, informative discussions, and networking opportunities with transplant professionals.**
 :::
 
-Join us on Fri Oct 06 2023 at Bute Terrace, Cardiff, CF10 2FL for an exciting day of discussions and presentations from leading experts in the field of transplantation. This in-person event will provide opportunities for networking and learning about the latest advances in transplantation research and practice. Don't miss out on this chance to connect with like-minded individuals and expand your knowledge in this important area. See you there!
+Join us on **Fri 6^th^ October 2023** for an exciting day of discussions and presentations from world leading experts in the field of organ donation and transplantation. The Cardiff Transplant Symposium will cover the cutting edge issues and technologies emerging in organ donation and transplantation. Don't miss out on this chance to expand your knowledge.
 
-## Location
+::: {.callout-important icon="false" appearance="default"}
+## CDP Accreditation
+
+**This symposium has been approved by the Federation of Royal Colleges of Physicians UK for 6 external (category 1) CPD credits.**
+
+![](images/Royal_College_of_Physicians_logo.svg.png){fig-align="right" width="120" height="41"}
+:::
+
+## Sponsors
+
+::: {layout="[[1,1],[1,1],[1]]" layout-halign="center"}
+
+![](images/NHS_LOGO.png){fig-align="center" width="200"} 
+
+![](images/HansaBiopharma-PurpleOrange-Transp.png){fig-align="center" width="150"}
+
+![](images/XVIVO_Logotype.png){fig-align="center" width="150"} 
+
+![](images/getinge-logo-rgb-3000px.png){fig-align="center" width="180"} 
+
+![](images/Welsh_Government_logo.svg){fig-align="center" width="120"}
+
+:::
+
+## Save the date
 
 ```{=html}
-<div class="google-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19868.26859113779!2d-3.1843696039389173!3d51.50342629195691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cb418fafb93%3A0xb6ef83736c407cdc!2sRadisson%20Blu%20Hotel%2C%20Cardiff!5e0!3m2!1sen!2suk!4v1686066988639!5m2!1sen!2suk" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+
+<add-to-calendar-button
+  name="8th Cardiff Transplant Symposium"
+  description="Looking to the future of Organ Donation and Transplantation"
+  startDate="2023-10-06"
+  endDate="2023-10-06"
+  startTime="09:30"
+  endTime="17:00"
+  location="Radisson Blu Hotel, Meridian Gate, Bute Terrace, Cardiff, CF10 2FL, United Kingdom"
+  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  timeZone="Europe/London"
+  trigger="click"
+  inline
+  listStyle="modal"
+  iCalFileName="cardiff-tx-symposium"
+  buttonstyle="text"
+>
+</add-to-calendar-button>
 ```
 ## Registration
 
@@ -42,4 +83,11 @@ Join us on Fri Oct 06 2023 at Bute Terrace, Cardiff, CF10 2FL for an exciting da
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+```
+## Location
+
+```{=html}
+<div class="google-map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19868.26859113779!2d-3.1843696039389173!3d51.50342629195691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cb418fafb93%3A0xb6ef83736c407cdc!2sRadisson%20Blu%20Hotel%2C%20Cardiff!5e0!3m2!1sen!2suk!4v1686066988639!5m2!1sen!2suk" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 ```

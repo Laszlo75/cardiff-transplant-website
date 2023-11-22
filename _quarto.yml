@@ -11,17 +11,30 @@ website:
         text: Agenda
       - href: speakers.qmd
         text: Speakers
-      - about.qmd
+      - href: about.qmd
+        text: About
+  site-url: https://cardifftransplant.org    
   page-footer: 
     left: <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) by [L Szabo](https://lszabo.me)</span>
     
-    right: 
-      - icon: github
-        text: "Code Repo"
+# right: 
+    #   - icon: github
+    #     text: "Code Repo"
       
     # background: "#2780e3"
-      
-
+  
+  favicon: images/icon_kidney.jpg
+  # image: images/davinci.png
+  twitter-card: 
+    title: 8^th^ Cardiff Transplant Symposium
+    description: Looking to the future of Organ Donation and Transplantation
+    creator: "@drszabolaszlo"
+    image: images/banner2.png
+  open-graph:
+    title: 8^th^ Cardiff Transplant Symposium
+    description: Looking to the future of Organ Donation and Transplantation
+    locale: en_UK
+    site-name: Cardiff Transplant Symposium
 format:
   html:
     theme: cosmo

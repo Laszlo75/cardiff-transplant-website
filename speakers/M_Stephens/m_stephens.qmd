@@ -12,6 +12,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mike-stephens-67470971/
-
 ---
+
 Mike Stephens has been a consultant kidney transplant and abdominal organ retrieval surgeon in Cardiff for 12 years, with special interests in organ donation, patient information and consent, and surgical training. He is the Welsh lead for transplantation and vascular access, and has chaired several programmes of peer review of renal services in Wales. He is also the deputy chair of the Welsh Transplantation Advisory Committee, who advise the Welsh Government on all aspects of organ donation and transplantation. He was involved in many aspects of implementing the law change in Wales to an opt out system for deceased organ donation.

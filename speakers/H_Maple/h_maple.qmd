@@ -1,7 +1,7 @@
 ---
 title: "Hannah Maple"
 subtitle: "Consultant Transplant Surgeon, Guy's Hospital, London"
-image: https://pbs.twimg.com/profile_images/1488548323967619076/whfn_mcX_400x400.jpg
+image: h_maple.jpg
 about:
   template: solana
   image: https://pbs.twimg.com/profile_images/1488548323967619076/whfn_mcX_400x400.jpg
@@ -12,7 +12,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/hannah-maple-191145119
-
 ---
 
 Hannah Maple has been a consultant at Guy's and St Thomas' NHS Foundation Trust since 2022.
