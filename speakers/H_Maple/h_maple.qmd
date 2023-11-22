@@ -1,0 +1,22 @@
+---
+title: "Hannah Maple"
+subtitle: "Consultant Transplant Surgeon, Guy's Hospital, London"
+image: https://pbs.twimg.com/profile_images/1488548323967619076/whfn_mcX_400x400.jpg
+about:
+  template: solana
+  image: https://pbs.twimg.com/profile_images/1488548323967619076/whfn_mcX_400x400.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/TransplantMaple
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hannah-maple-191145119
+
+---
+
+Hannah Maple has been a consultant at Guy's and St Thomas' NHS Foundation Trust since 2022.
+
+She was the first clinical lecturer in transplant and general surgery in London. She worked on a National Institute for Health and Care Research funded study looking at barriers and outcomes in unspecified (altruistic) kidney donation.
+
+She is Chair of the ethical, legal and psychosocial aspects of transplantation (ELPAT) section of the European Society of Organ Transplantation.

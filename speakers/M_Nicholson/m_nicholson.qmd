@@ -1,0 +1,21 @@
+---
+title: "Michael Nicholson"
+subtitle: "Professor of Transplant Surgery, Cambridge"
+image: Mike-Nicholson-cropped.jpg
+about:
+  template: solana
+  # image: 
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: 
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: 
+---
+
+Michael Nicholson is Professor of Transplant Surgery and Head of the Division of Academic General & Transplant Surgery at the University of Cambridge. He is also an Honorary Consultant Surgeon at Addenbrooke's Hospital.
+
+He qualified from Nottingham University and trained in general and transplant surgery in Nottingham, Bristol, Leicester and Oxford. He is the lead for live donor kidney transplantation in Cambridge and has performed 700 laparoscopic live donor nephrectomies and 1100 kidney transplants.
+
+He is the Director of the [NIHR Blood and Transplant Research Unit in Organ Donation and Transplantation](https://odt.btru.nihr.ac.uk). His research group focus on developing renal normothermic machine perfusion with the aim of assessing marginal kidneys and delivering pre-transplant allograft therapies. He has published more than 360 papers, supervised 33 successfully awarded doctorates and raised more than £15M in external grant funding.

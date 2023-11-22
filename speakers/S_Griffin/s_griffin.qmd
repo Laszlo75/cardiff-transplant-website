@@ -1,0 +1,18 @@
+---
+title: "Siân Griffin"
+subtitle: "Consultant Transplant Nephrologist, Cardiff"
+image: photo_SVG.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/toomuchaltitude
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sian-griffin-2b826216/
+# category: 
+#   -Session1
+---
+
+Professor Siân Griffin is a Consultant Nephrologist in Cardiff where she is the departmental lead for Research and Development. Her own research focuses on improving the management of immunologically-mediated kidney disease, including an understanding of the impact of these diagnoses for the patient. Her current projects include the management of patients with failing kidney transplants, analysis of risk factors for opportunistic viral infections following transplantation, holistic care including reproductive goals for patients with kidney disease and clinical trials. She was previously the General Secretary of the British Transplantation Society and is currently an executive board member of the UK Organ Donation and Transplant Research Network, and Chair of the Radar BK Nephropathy Rare Disease Group.

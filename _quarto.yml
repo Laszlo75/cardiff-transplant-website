@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Cardiff Transplant"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: agenda.qmd
+        text: Agenda
+      - href: speakers.qmd
+        text: Speakers
+      - about.qmd
+  page-footer: 
+    left: <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) by [L Szabo](https://lszabo.me)</span>
+    
+    right: 
+      - icon: github
+        text: "Code Repo"
+      
+    # background: "#2780e3"
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,23 @@
+---
+title: "Nizam Mamode"
+subtitle: "Professor of Transplant Surgery, London"
+image: n_mamode.jpg
+about:
+  template: solana
+  # image: 
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/NizamMamode
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: 
+
+---
+Before his retirement in 2022, Nizam Mamode was a Consultant Transplant Surgeon and Professor of Transplant Surgery at Guy’s and Great Ormond Street Hospitals, London. He spent 6 months establishing a transplant programme in Mauritius from October 2022 to May 2023.
+
+Professor Mamode has published over 100 papers, 1 book and 3 book chapters. He performed the first robotic transplant and the first robotic donor nephrectomy in the UK.
+
+He was the Chief Investigator for 2 NIHR studies. the POWAR study (antibiotics in living donation), and the BOUND study (unspecified donation)- both multi centre , national studies.
+
+Previously professor of transplant surgery at Guys, retired 2022. Spent 6 months establishing a transplant programme in Mauritius Oct 2022 to May 2023. Previously worked at Guys and Great Ormond Street as consultant transplant surgeon. Published over 100 papers, 1 book and 3 book chapters. Performed first robotic transplant and first robotic donor in the UK. CI for 2 NIHR studies: the POWAR study (antibiotics in living donation), and the BOUND study (unspecified donation)- both multi centre , national studies. Treasurer and founding member for EKITA 2011-2021, member of BTS Council for over a decade. Introduced and led the antibody incompatible transplant programme at Guys and GOSH, with over 150 patients transplanted- set up the only paediatric antibody incompatible transplant programme. Specialised in complex cases, especially children. Interested in surgical error and teaching- supervised 5 Phd and 1 MD student.

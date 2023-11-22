@@ -1,0 +1,19 @@
+---
+title: "Fiona Hunt"
+subtitle: "Lead NRP Perfusionist, Edinburgh"
+image: f_hunt.jpg
+about:
+  template: solana
+  # image: 
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Hunt11Fiona
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: 
+
+---
+Fiona qualified as a Registered General Nurse in Edinburgh and has since completed a BSc in Advanced Professional Practice at Queen Margaret University, Edinburgh. She has achieved Professional Studies in anaesthetics, perioperative practice and recovery, gaining comprehensive experience in a number of surgical specialities, developing a particular interest in transplantation.
+
+In 1997, Fiona secured a post within the Scottish Liver Transplant Unit, Royal Infirmary Edinburgh extending her experience to liver, kidney and pancreas transplantation. In addition, she became a member of the Scottish Organ Retrieval Team and has extensive experience in both abdominal and cardio-thoracic retrieval. In 2016, Fiona was appointed by Edinburgh Transplant Centre to support the development of novel technologies in abdominal organ perfusion and preservation, with primary focus being the implementation of normothermic regional perfusion into clinical practice, followed by other new machine perfusion techniques. As Team Manager, she now leads a team of Advanced Perfusion and Organ Preservation Specialists to enable the further development and sustainability of these services.

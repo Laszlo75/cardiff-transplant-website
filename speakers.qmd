@@ -1,0 +1,13 @@
+---
+title: "Speakers"
+listing: 
+  contents: speakers
+  filter-ui: [title]
+  fields: [title, subtitle, image]
+  image-height: 150px
+toc: true
+---
+
+::: callout-warning
+The speaker list has not been finalized, might change!
+:::

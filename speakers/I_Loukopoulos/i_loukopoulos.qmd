@@ -1,0 +1,19 @@
+---
+title: "Ioannis Loukopoulos"
+subtitle: "Consultant Transplant Surgeon, Guy's Hospital, London"
+image: i_loukopoulos.jpg
+about:
+  template: solana
+  # image: 
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/LoukopoulosI
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ioannis-loukopoulos-055929a6/
+
+---
+Mr Loukopoulos graduated from the Medical School of Athens University in 1997 and completed his training in general surgery in 2005. He worked 6 years as consultant in general surgery and kidney transplantation in Evaggelismos Hospitals in Athens, before moving to UK and Guy’s Hospital in 2012, as senior clinical fellow. In 2013 he was appointed consultant in kidney and pancreas transplantation in Guy’s Hospital.
+
+He performs adult and paediatric kidney transplantation, pancreas transplantation, vascular access surgery and minimally invasive live donor nephrectomy. His special interests are paediatric kidney transplantation and robotic surgery for kidney donors and recipients. He leads the robotic donor nephrectomy program at Guy’s Hospital with more than 50 procedures performed and he has developed a training model for robotic kidney transplantation.

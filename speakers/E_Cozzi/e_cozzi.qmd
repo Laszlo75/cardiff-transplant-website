@@ -1,0 +1,28 @@
+---
+title: "Emanuele Cozzi"
+subtitle: "Professor of Transplant Immunology, Padova, Italy"
+image: emanuele_cozzi-300x300.jpg
+about:
+  template: solana
+  
+  links:
+    # - icon: twitter
+    #   text: twitter
+    #   href: https://twitter.com/miketransplant
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emanuele-cozzi-616633212
+# category: 
+#   -Session1
+---
+
+Prof. Emanuele Cozzi, MD, PhD, is a clinical immunologist who graduated from the Medical School of the Padua University in 1984. In 1987, he obtained his specialisation as an allergist and clinical immunologist in the same University and a PhD from the University of Cambridge in 2000.
+
+From 1988 until 1991, he has worked as a Research Fellow in the Department of Microbiology, New York Medical College, Valhalla, New York. There he was mainly involved in clinical trials regarding the utilisation of monoclonal antibodies in the treatment of autoimmune diseases. From 1993 until 2001, Prof. Cozzi has worked as a Clinical Research Associate in the Department of Surgery of the University Cambridge, where he has contributed to both clinical and preclinical research activities in the field of solid organ allo- and xenotransplantation. In September 2001, Prof.Cozzi joined the Padua Medical Center where he directs the Unit of Transplantation Immunology. Furthermore, since January 2020 he is Full Professor at the Department of Cardio-Thoraco-Vascular Sciences and Public Health at the University of Padua.
+
+Prof. Cozzi has published extensively in the field of transplantation and is author of more than 200 manuscripts in international journals (publications: 215; citations: 7.945; h-index: 43). His areas of expertise encompass clinical transplantation immunology, with particular regard to humoral rejection, and preclinical research in the field of solid organ and neural cell allo- and xenotransplantation. He has lead several multicentre research initiatives, and was Coordinator of the EU-funded XENOME Project whose primary objective was to extend survival of solid organ and cellular xenografts in preclinical nonhuman primate models. He has also coordinated the multicenter EU-funded TRANSLINK Project, whose objective was to define the role of immune events in the premature valve failure in patients receiving animal-derived bioprosthetic heart valves. Prof. Cozzi is a reviewer for several major funding agencies, including the National Institutes of Health and National Institutes of Allergy and infectious Disease (NIH/NIAID), Bethesda, Maryland (USA) and for the PHRC Programme, Ministère des Solidarités et de la Santé, Paris (France).
+
+Prof. Cozzi is a past-president of the International Xenotransplantation Association (IXA) and I a member of the IXA Ethics Committee; he has served as vice-president of the Italian Society of Organ Transplantation. He the National Expert at the National Transplant Center (CNT-Rome) for issues related to transplantation in incompatible patients, organ trafficking and for international affairs. He is the current Co-Chair of the European Committee on Organ Transplantation (CD-P-TO) at the Council of Europe in Strasbourg.

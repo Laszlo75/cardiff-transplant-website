@@ -1,0 +1,19 @@
+---
+title: "Sharlene Greenwood"
+subtitle: "Consultant Physiotherapist, King's College, London"
+image: https://media.licdn.com/dms/image/C5603AQFTaV9KVwPgCQ/profile-displayphoto-shrink_800_800/0/1561383630374?e=1692230400&v=beta&t=bNyxryQxUcgFtDjQy-qg_EFuebXN32-g6hc_zNkqHgo
+about:
+  template: solana
+  # §image: https://media.licdn.com/dms/image/C5603AQFTaV9KVwPgCQ/profile-displayphoto-shrink_800_800/0/1561383630374?e=1692230400&v=beta&t=bNyxryQxUcgFtDjQy-qg_EFuebXN32-g6hc_zNkqHgo
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/sharleneuk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sharlene-greenwood-2aa4ab6a/
+# category: 
+#   -Session1
+---
+
+Dr Sharlene Greenwood is a Consultant Physiotherapist at King's College Hospital, an Honorary Reader in Exercise and Lifestyle Medicine at King's College London, and a NIHR post-doctoral research fellow. She co-chairs the UK Kidney Research Consortium and is the immediate past President of the UK Kidney Association. Sharlene has worked with people living with kidney disease for over 15 years, mostly designing and evaluating different ways to motivate people to be more active. Most recently, Sharlene led on the development of [Kidney Beam](https://www.beamfeelgood.com), a novel digital platform that was rapidly developed to help people living with kidney disease manage their physical and emotional wellbeing during the COVID pandemic and beyond. Sharlene leads one of the only commissioned renal exercise services in the UK, which includes renal rehabilitation, weight management, and specialist kidney transplant exercise clinics.

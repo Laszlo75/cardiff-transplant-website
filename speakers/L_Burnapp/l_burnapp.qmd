@@ -1,0 +1,21 @@
+---
+title: "Lisa Burnapp"
+subtitle: Consultant Nurse, NHSBT
+image: https://media.licdn.com/dms/image/C5103AQFb38RW0a03dQ/profile-displayphoto-shrink_800_800/0/1516937482324?e=1692230400&v=beta&t=aHk3BTxJEKp5lowT4fTGWYdpHYeO4esGIRQ99DyNNLM
+about:
+  template: solana
+  
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/BurnappLisa
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lisa-burnapp-5aa83856/
+---
+
+
+
+
+Lisa Burnapp has a background in nephrology and transplantation and an MA in Medical Law and Ethics. She was appointed as a Consultant Nurse in Living Donor Kidney Transplantation at Guy\'s & St. Thomas\' NHS Foundation Trust in 2002, where she retained a clinical attachment with a special interest in non-directed altruistic donation until March 2022. She is the Associate Medical Director for living donation and transplantation at NHS Blood & Transplant and has facilitated development and implementation of UK Strategies for living donor transplantation, including the UK Living Kidney Sharing Scheme, since 2010. She has held severalroles within the British Transplantation Society (BTS) Society, including President from 2021-2023. She is a member of the Human Tissue Authority Transplant Advisory Group and is on the living organ donation working group within the Ethical, Legal and Psychological Aspects of Transplantation section of the European Society for Organ Transplantation.

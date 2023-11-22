@@ -1,0 +1,13 @@
+---
+title: "Makis Laftsidis"
+subtitle: "Consultant Transplant Surgeon, Royal Free Hospital, London"
+image: laftsidis.jpg
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/makis-laftsidis-50a6b255/
+---
+
+Mr Makis Laftsidis is a Consultant Transplant and Vascular Access Surgeon at the Royal Free Hospital in London. His clinical interest involves Living Donor Nephrectomy, Robotic Adrenalectomies and Complex Vascular Access Surgery. He was appointed as the Regional Director for the Royal College of Surgeons to advocate for trainers and trainees across the South Coast of England from 2020-23 and he is also a Responsible Officer for the GMC and a College Representative for ASCABs in General Surgery.

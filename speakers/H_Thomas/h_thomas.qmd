@@ -1,0 +1,22 @@
+---
+title: "Helen Thomas"
+subtitle: "Lead Pharmacist, Cardiff"
+image: h_thomas.jpg
+about:
+  template: solana
+  
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com/LoukopoulosI
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/ioannis-loukopoulos-055929a6
+---
+
+Helen Thomas is currently the Lead Pharmacist for Specialist Services Clinical Board at Cardiff and Vale University Health Board, and has worked as a Specialist Pharmacist within the Nephrology and Transplant team at Cardiff for 14 years. She has previously chaired the UK Renal Pharmacy Group's annual conference and has played an active role in the Welsh Kidney Network's medicines management group and collaborated on national research projects. The Renal Pharmacy Team in Cardiff has a strong commitment to service development and as part of that team, Helen has been at the forefront of many initiatives that have directly impacted on patient care. These include the repatriation of immunosuppression prescribing to secondary care for Kidney and Pancreas Transplant recipients across South Wales, the implementation of a proactive intravenous iron dosing strategy for unit haemodialysis patients and the development of nocturnal home haemodialysis prescribing guidelines. Helen's particular areas of interest are dialysis, especially home therapies, and prescribing and pharmaceutical care issues relating to the management of renal disease in people of child-bearing potential, such as contraception and pregnancy.
+
+ 

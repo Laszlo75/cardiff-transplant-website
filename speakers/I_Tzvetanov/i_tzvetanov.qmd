@@ -1,0 +1,15 @@
+---
+title: "Ivo Tzvetanov"
+subtitle: "Professor of Transplant Surgery, Chicago, US"
+image: tzvetanov.jpg
+
+about:
+  template: solana
+  links:
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ivo-georgiev-tzvetanov-md-facs-9054a66/
+---
+
+Dr. Ivo G. Tzvetanov is the Carl H. and Billie M. Frese & Gerald S. Moss Professor in Transplant Surgery and Professor and Chief, Division of Transplant Surgery at the University of Illinois at Chicago. Dr. Tzvetanov received his Medical Degree at Medical University of Sofia in Bulgaria (1992) and completed his surgical residency at Fifth City Multiprophyle Hospital & Medical University of Sofia in Bulgaria in 1997 where he worked as an attending surgeon until 2002. He completed his US surgical residency at the University of Illinois at Chicago Metropolitan Group Hospitals (2002‐2007). Followed by a Fellowship in Abdominal Organ Transplant Surgery (2007‐2009) from the University of Illinois at Chicago. He is board certified in General Surgery and accredited by the American Society of Transplant Surgeons (ASTS). Dr. Tzvetanov's interests include liver, kidney, pancreas, bowel and multivisceral transplantation as well as hepatobiliary surgery. Kidney and liver transplantation form part of his outstanding clinical work. He is one of the pioneers of minimal invasive robotic organ transplantation. Currently, Dr. Tzvetanov has one of the largest individual experiences in robotic organ transplantation worldwide. He is frequently invited to be a guest lecturer and proctor in robotic transplantation; not only in the United States, but countries such as Asia, Middle East, and Europe. Dr. Tzvetanov has been a highly awarded and appreciated teacher of medical students, residents, fellows and junior attendings.
