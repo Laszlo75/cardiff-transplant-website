@@ -13,16 +13,13 @@ website:
         text: Speakers
       - href: about.qmd
         text: About
+    tools:
+      - icon: github
+        url: https://github.com/Laszlo75/cardiff-transplant-website.git
   site-url: https://cardifftransplant.org    
   page-footer: 
     left: <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) by [L Szabo](https://lszabo.me)</span>
-    
-# right: 
-    #   - icon: github
-    #     text: "Code Repo"
-      
-    # background: "#2780e3"
-  
+
   favicon: images/icon_kidney.jpg
   # image: images/davinci.png
   twitter-card: 
